@@ -25,3 +25,4 @@ jobs:
           app-name: rails-${{ github.ref_name }}
           service-ports: "5000:http"
           service-routes: "/:5000"
+          skip-cache: true
