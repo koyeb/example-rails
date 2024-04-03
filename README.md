@@ -36,7 +36,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Rails application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-rails&branch=main&run_command=rails%20server%20-b%200.0.0.0&name=rails-on-koyeb)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-rails&branch=main&builder=buildpack&run_command=rails%20server%20-b%200.0.0.0&name=rails-on-koyeb)
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
